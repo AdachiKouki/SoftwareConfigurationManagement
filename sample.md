@@ -4,8 +4,11 @@
 - github
 - docker
 
+<<<<<<< HEAD
 |a|b|
 |:-|:-|
 |1|3|
 
 ## text
+======
+>>>>>>> modify file
